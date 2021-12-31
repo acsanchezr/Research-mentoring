@@ -1,6 +1,6 @@
 ## Research Process Overview
 
-#### Based on my personal experience conducting research in Human-Robot Interaction, Sociology, and as a CDT intern, the research process roughtly looks as follows:
+#### Based on my personal experience conducting research in Human-Robot Interaction, Sociology, and as a CDT intern, the research process roughly looks as follows:
 
 1. Development of a good research question.
 2. Operationalization of variables (i.e., define your concepts of interest).
